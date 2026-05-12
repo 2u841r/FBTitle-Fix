@@ -12,7 +12,7 @@ So this extension fixes it locally, on your machine, without waiting for Faceboo
 
 ## What It Does
 
-Reads the page or group name from the page header and sets it as the tab title. History entries now read `Rongtaan - রংতান | Facebook` instead of `Facebook`.
+Reads the page or group name from the page header and sets it as the tab title. History entries now read `পেজের নাম | Facebook` or `আইডির নাম | Facebook` instead of `Facebook`.
 
 Works across navigation: the title updates as you move between pages without reloading.
 
