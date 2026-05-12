@@ -16,12 +16,26 @@ Reads the page or group name from the page header and sets it as the tab title. 
 
 Works across navigation: the title updates as you move between pages without reloading.
 
-## Install (Chrome / Edge)
+## Install
+
+### Chrome / Edge (unpacked)
 
 1. Go to `chrome://extensions`
 2. Enable **Developer mode** (top right)
 3. Click **Load unpacked**
 4. Select this folder
+
+### Firefox (temporary load)
+
+1. Go to `about:debugging#/runtime/this-firefox`
+2. Click **Load Temporary Add-on**
+3. Select the `manifest.json` file inside this folder
+
+Note: temporary add-ons may be removed when Firefox closes. For a permanent install, use the signed version from the Firefox Add-ons store once available.
+
+### Tampermonkey (all browsers)
+
+Install via [Greasy Fork](https://greasyfork.org/en/scripts/577789-fbtitle-fix). Works with Tampermonkey or Violentmonkey.
 
 ## More Tools by the Same Author
 
