@@ -1,0 +1,9 @@
+Privacy Policy for FBTitle Fix
+
+FBTitle Fix does not collect, store, transmit, or share any data.
+
+The extension runs entirely in your browser. It reads page content solely to update the tab title on your device. No information leaves your machine.
+
+No analytics. No tracking. No external requests.
+
+Contact: zizdjbd@gmail.com
