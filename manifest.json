@@ -9,6 +9,16 @@
     "48": "icons/icon48.png",
     "128": "icons/icon128.png"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "fbtitlefix@2u841r",
+      "strict_min_version": "109.0",
+      "data_collection_permissions": {
+        "required": [],
+        "optional": []
+      }
+    }
+  },
   "content_scripts": [
     {
       "matches": ["*://*.facebook.com/*"],
